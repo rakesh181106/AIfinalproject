@@ -1,0 +1,13 @@
+# Downloaded dataset and archives
+aircraft_damage_dataset_v1/
+aircraft_damage_dataset_v1.tar
+
+# Model artifacts
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Python/Jupyter generated files
+__pycache__/
+.ipynb_checkpoints/
